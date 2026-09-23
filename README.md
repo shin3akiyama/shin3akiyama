@@ -12,7 +12,7 @@
 - 🧑‍💻 **Role**: Software Engineer / Graduate Researcher
 - 🎓 **Affiliation**: Master's Student (M1) at Information & Data Sciences
 - 🔬 **Lab**: Member of [MADLAB](https://madlab.tumblr.com/) (Dr. Ichi Lab)
-- 👥 **Community**: Organizer of [Chotech](https://github.com/nu-chotech) (Student Tech Community)
+- 👥 **Community**: Staff of [Chotech](https://github.com/nu-chotech) (Student Tech Community)
 - 💡 **Interests**: Web / Mobile App Development, Computer Vision, Digital Archaeology
 
 ---
@@ -25,6 +25,4 @@
 - 👥 Community: Operational staff & technical support at Chotech
 - ☁️ Architecting Cloud Solutions (GCP, Docker, Serverless)
 ...
-
-
 
